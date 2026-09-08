@@ -1,4 +1,4 @@
-# departments/server-parts/diff/compare.py
+# departments/server_parts/diff/compare.py
 #
 # Сравнивает два снимка (вчера/сегодня) и строит дайджест изменений цен.
 # Диски матчатся строго по part_number (см. catalog.yaml, match_type: serial).
